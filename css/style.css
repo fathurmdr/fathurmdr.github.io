@@ -1,0 +1,185 @@
+.jumbotron img {
+    width: 250px;
+    border: 5px solid #c8e4ff;
+}
+
+.dp{
+    padding: 30px 0;
+}
+
+.jumbotron h4{
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+
+.profile hr {
+    width: 250px;
+    border-top: 2px solid white;
+}
+
+
+
+
+
+#service img{
+    height: 200px;
+    padding-top: 30px;
+}
+
+section{
+    padding: 20px;
+}
+
+.background-blue1{
+    background-color: #0e3559;
+}
+
+
+.background-blue2{
+    background-color: #4283be;
+}
+
+.background-blue3{
+    background-color: #c4e3ff;
+}
+
+.blue1{
+    color: #0e3559;
+}
+
+.blue2{
+    color: #4283be;
+}
+
+hr.blue1{
+    width: 250px;
+    border-top: 2px solid #0e3559;
+}
+
+section.find-me img{
+    width: 50px;
+    
+    
+}
+
+
+
+
+
+
+
+
+.jumbotron {
+    background: url("img/Home.png") fixed no-repeat;
+    margin-bottom: 0;
+    background-size: 1360px;
+    background-position: center top;
+    background-color: #0e3559;
+    padding-bottom: 0;
+}
+
+
+@media (min-width: 600px) {
+    #mobile {
+        display: none;
+    }
+    #b-mid{
+        border-right: none;
+    }
+  }
+
+
+@media (max-width: 600px) {
+    #pc {
+        display: none;
+    }
+  }
+
+#edukasi2{
+    width: 80% ;
+}
+
+
+.box {
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 30px 0;
+    box-shadow: 3px 5px #26547d;
+}
+
+#timeline1{
+    width: 73%;
+    padding-bottom: 10px;
+    
+}
+
+.f-kecil p {
+    font-size: small;
+    transform: rotate(-8deg);
+    color: #0e3559;
+}
+
+.f-kecil{
+    font-size: small;
+    padding: 10px;
+}
+
+.kiri{
+    border-right: solid;
+    border-color: #0e3559;
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+#b-mid{
+    border-right: 1px solid;
+    border-color: #0e3559;
+    border-left: 1px solid;
+}
+
+@media only screen and (max-width: 600px) {
+    #b-mid {
+      border-right: none;
+      border-left: none;
+  }
+}
+  
+
+@media only screen and (min-width: 600px) {
+    .findme{
+        display: inline;
+    }
+}
+
+
+.skill {
+    background: url("img/bg-skill.png") fixed no-repeat;
+    margin-bottom: 0;
+    background-size: cover;
+    background-position: left;
+    background-color: #0e3559;
+    padding-top: 10px; 
+}
+
+#skill {
+    padding-top: 50px;
+    padding-bottom: 150px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#skill2{
+    padding: 5% 0;
+}
+
+.countain{
+    margin: 1% 1%;
+}
